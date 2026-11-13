@@ -85,8 +85,37 @@ def cnc_ddraw() -> list[tuple[str, str, str]]:
     return [(game, "cnc-ddraw", url) for game in games if game != "..."]
 
 
+# Source spelling -> one canonical name, for duplicates that normalization in key() can't catch,
+# and for abbreviations that Ctrl+F wouldn't find («San Andreas» in «GTA SA»).
+ALIASES = {
+    "Grand Theft Auto (1)": "Grand Theft Auto",
+    "Disciples": "Disciples: Sacred Lands",
+    "Carmageddon 2": "Carmageddon II: Carpocalypse Now",
+    "Total Annihilation (Unofficial Beta Patch v3.9.02)": "Total Annihilation",
+    "GTA III The Definitive Edition": "Grand Theft Auto III: The Definitive Edition",
+    "GTA VC The Definitive Edition": "Grand Theft Auto: Vice City - The Definitive Edition",
+    "GTA SA The Definitive Edition": "Grand Theft Auto: San Andreas - The Definitive Edition",
+    "GTA Chinatown Wars": "Grand Theft Auto: Chinatown Wars",
+    "GTA Liberty City Stories": "Grand Theft Auto: Liberty City Stories",
+    "Grand Theft Auto Liberty City Stories": "Grand Theft Auto: Liberty City Stories",
+    "GTA Vice City Stories": "Grand Theft Auto: Vice City Stories",
+    "Grand Theft Auto Vice City Stories": "Grand Theft Auto: Vice City Stories",
+}
+
+ROMAN = {"ii": "2", "iii": "3", "iv": "4"}
+
+
 def key(name: str) -> str:
-    return re.sub(r"[^a-z0-9]", "", name.lower().replace("&", "and"))
+    """Merge key: case, punctuation, articles, «GTA» and roman numerals don't matter."""
+    name = name.lower().replace("&", "and")
+    name = re.sub(r"^gta\b", "grand theft auto", name)
+    name = re.sub(r"\b(the|a|an)\b", " ", name)
+    name = re.sub(r"\b(ii|iii|iv)\b", lambda match: ROMAN[match.group()], name)
+    return re.sub(r"[^a-z0-9]", "", name)
+
+
+def sort_key(name: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", name.lower())
 
 
 def main() -> None:
@@ -94,12 +123,13 @@ def main() -> None:
     sources = [(game, text, url) for game, links in MANUAL.items() for text, url in links]
     sources += wfp() + alphayellow() + cnc_ddraw()
     for game, text, url in sources:
+        game = ALIASES.get(game, game)
         name, links = games.setdefault(key(game), (game, []))
         if (text, url) not in links:
             links.append((text, url))
 
     by_letter: dict[str, list[tuple[str, list[tuple[str, str]]]]] = {}
-    for name, links in sorted(games.values(), key=lambda item: key(item[0])):
+    for name, links in sorted(games.values(), key=lambda item: sort_key(item[0])):
         letter = name[0].upper() if name[0].isalpha() else "0-9"
         by_letter.setdefault(letter, []).append((name, links))
 

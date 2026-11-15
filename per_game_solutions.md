@@ -38,6 +38,8 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 | Game | Fixes |
 |---|---|
 | Majesty Gold HD | [Majesty Gold HD Resolution Mod](https://github.com/bruno-gelb/mghd_resolution_mod) |
+| Majesty: The Fantasy Kingdom Sim | [Majesty Gold HD Resolution Mod](https://github.com/bruno-gelb/mghd_resolution_mod) |
+| Majesty: The Northern Expansion | [Majesty Gold HD Resolution Mod](https://github.com/bruno-gelb/mghd_resolution_mod) |
 
 ## T
 

@@ -161,6 +161,8 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 |---|---|
 | Silent Storm | • No dedicated fix found; the old WSGF tool, Universal Res Changer 2, is probably gone |
 | Space Rangers | • StarMind's Resolution Patch 1.5 in the PCGamingWiki files library: up to 1920×1080, but only some screens resize |
+| Space Rangers 2: Dominators | • [Space Rangers HD: A War Apart](https://store.steampowered.com/app/214730/) |
+| Space Rangers 2: Reboot | • [Space Rangers HD: A War Apart](https://store.steampowered.com/app/214730/) |
 | Stronghold Crusader | • [Stronghold Crusader HD](https://store.steampowered.com/app/40970/) |
 | Sudden Strike | • Widescreen Fix mod on Gamepressure, up to 1920×1080 (not verified) |
 | Sudden Strike 2 | • No dedicated fix found; the Widescreen Fix on Gamepressure is for Sudden Strike 1 |

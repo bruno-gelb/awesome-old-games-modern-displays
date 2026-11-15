@@ -11,12 +11,16 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 | Game | Fixes |
 |---|---|
 | Blitzkrieg | [BlitzkriegPatch](https://github.com/brian8544/BlitzkriegPatch) |
+| Blitzkrieg Anthology | [BlitzkriegPatch](https://github.com/brian8544/BlitzkriegPatch) |
 
 ## D
 
 | Game | Fixes |
 |---|---|
 | Disciples II: Dark Prophecy | [DisciplesGL](https://github.com/rootext/disciples-gl-builds) |
+| Disciples II: Guardians of the Light | [DisciplesGL](https://github.com/rootext/disciples-gl-builds) |
+| Disciples II: Rise of the Elves | [DisciplesGL](https://github.com/rootext/disciples-gl-builds) |
+| Disciples II: Servants of the Dark | [DisciplesGL](https://github.com/rootext/disciples-gl-builds) |
 | Disciples: Sacred Lands | [DisciplesGL](https://github.com/rootext/disciples-gl-builds) |
 
 ## K

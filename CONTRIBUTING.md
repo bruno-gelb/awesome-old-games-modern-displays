@@ -8,7 +8,7 @@ Pull requests are welcome. To keep the list useful:
 - Use the format `[Name](link) - Description.`: the description starts with a capital letter and ends with a period.
 - Put the entry in the right place, and keep entries sorted by game name.
 - Tools that work with many games (wrappers, fix packs) go in [generic_solutions.md](generic_solutions.md), not in `README.md`.
-- A new per-game mod gets a row in [per_game_solutions.md](per_game_solutions.md) for each game it fixes, in alphabetical order.
+- A new per-game mod gets a row in [per_game_solutions.md](per_game_solutions.md) for each game it fixes, in alphabetical order. Add a row for each name the game is sold under too (expansions, editions, re-releases), so Ctrl+F finds it by any of them.
 - Check spelling and grammar, and remove trailing whitespace. Don't hard-wrap lines: one line per paragraph or list item.
 
 By contributing, you agree that your contribution is released under [CC0 1.0](LICENSE).

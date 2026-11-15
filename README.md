@@ -2,7 +2,7 @@
 
 > Mods, wrappers and patches that let old PC games run properly on modern displays: high and widescreen resolutions, correct aspect ratios, HUD scaling, borderless windows and working graphics on current Windows, Linux and macOS.
 
-**🔍 Looking for a fix for a specific game? Open [games.md](games.md) and press Ctrl+F.** It indexes 60+ games and the fixes that support each one.
+**🔍 Looking for a specific game? See [games.md](games.md)**: every game covered here, each with the mods and source ports that fix it.
 
 Old games often lock you into 640×480 or 800×600, stretch on a 16:9 or 21:9 screen, or break on modern graphics APIs. This list collects the tools that fix that, from generic DirectDraw and Glide wrappers to resolution mods made for a single game.
 

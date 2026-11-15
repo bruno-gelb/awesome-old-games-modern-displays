@@ -21,7 +21,7 @@ For each game, the goal is the easiest, most widely used and best-working way to
 
 ## 🎮 Per-game solutions
 
-Mods, source ports and official patches made for one game: **[see the per-game list](per_game_solutions.md)**, sorted by game. Use Ctrl+F to find yours. The list is short for now and grows by hand.
+Mods, source ports and official patches made for one game: **[see the per-game list](per_game_solutions.md)**, sorted by game. Use Ctrl+F to find yours. The list grows by hand.
 
 ## 🧰 Generic solutions
 

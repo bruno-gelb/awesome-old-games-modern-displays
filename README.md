@@ -10,6 +10,8 @@
 
 Old games often lock you into 640×480 or 800×600, stretch on a 16:9 or 21:9 screen, or break on modern graphics APIs. This list collects the mods, patches and wrappers that fix that.
 
+For each game, the goal is the easiest, most widely used and best-working way to play it on a modern display: an official remaster, a source port, a patch or a mod, whichever does the job. When there are several, we list them all, and you pick.
+
 ## Contents
 
 - [Per-game solutions](#per-game-solutions)

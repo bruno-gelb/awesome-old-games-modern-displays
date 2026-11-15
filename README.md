@@ -39,8 +39,10 @@ Neighboring lists and collections with a different focus.
 
 - [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) - Open-source remakes and source ports of classic games, many more than the few listed here.
 - [Awesome Unofficial PC Ports](https://github.com/Sebastrion/awesome-unofficial-pc-ports) - Unofficial PC ports of console games.
+- [Lyall's fixes](https://github.com/Lyall?tab=repositories) - Ultrawide, custom resolution and other fixes for dozens of newer games, one repository per game; many have moved to [Codeberg](https://codeberg.org/Lyall).
 - [OldGameFixes](https://github.com/faithvoid/OldGameFixes) - Compilation of fixes to get older games working on newer hardware.
 - [OldGamesFixes](https://github.com/Simorss/OldGamesFixes) - Compatibility fixes and patches for older games, with some Italian localization patches.
+- [UltrawideIndex](https://github.com/RoseTheFlower/UltrawideIndex) - Widescreen and ultrawide solutions for more than a hundred games, mostly newer ones, by Rose of the Widescreen Gaming Forum.
 
 ## Contributing
 

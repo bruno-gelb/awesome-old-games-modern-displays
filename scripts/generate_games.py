@@ -22,6 +22,9 @@ MANUAL = {
     "Blitzkrieg": [("BlitzkriegPatch", "https://github.com/brian8544/BlitzkriegPatch")],
     "Disciples: Sacred Lands": [("DisciplesGL", "https://github.com/rootext/disciples-gl-builds")],
     "Disciples II: Dark Prophecy": [("DisciplesGL", "https://github.com/rootext/disciples-gl-builds")],
+    "Majesty Gold HD": [
+        ("Majesty Gold HD Resolution Mod", "https://github.com/bruno-gelb/mghd_resolution_mod")
+    ],
     "Tzar: The Burden of the Crown": [
         ("Tzar Resolution Mod", "https://github.com/bruno-gelb/ttbotc_resolution_mod")
     ],

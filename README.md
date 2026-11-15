@@ -62,6 +62,8 @@ Resolution mods and wrappers built for one game or series. Sorted by game.
   original limit.
 - [DisciplesGL](https://github.com/rootext/disciples-gl-builds) - OpenGL wrapper for Disciples and Disciples II,
   with proper windowed mode and upscale filters on Windows 10/11.
+- [Majesty Gold HD Resolution Mod](https://github.com/bruno-gelb/mghd_resolution_mod) - Majesty Gold HD (2012) at
+  ultrawide (21:9), 1440p and 4K resolutions, with screen layouts generated from the game's own.
 - [Tzar Resolution Mod](https://github.com/bruno-gelb/ttbotc_resolution_mod) - Tzar: The Burden of the Crown (2000)
   at widescreen resolutions, up to 21:9.
 

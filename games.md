@@ -618,7 +618,7 @@ Not finding your game? Generic wrappers like [dgVoodoo2](https://github.com/dege
 | Mageslayer | [cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) |
 | Magic: The Gathering - Battlegrounds | [AlphaYellow: FOV Fix](https://github.com/alphayellow1/AlphaYellowWidescreenFixes/releases/tag/magicthegatheringbattlegrounds) |
 | Majesty Gold | [cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) |
-| Majesty Gold HD | [cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) |
+| Majesty Gold HD | [Majesty Gold HD Resolution Mod](https://github.com/bruno-gelb/mghd_resolution_mod), [cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) |
 | Mall Tycoon 3 | [AlphaYellow: FOV Fix](https://github.com/alphayellow1/AlphaYellowWidescreenFixes/releases/tag/malltycoon3) |
 | Manhunt | [WidescreenFixesPack: Widescreen Fix](https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/manhunt) |
 | Marble Blast Gold | [AlphaYellow: FOV Fix](https://github.com/alphayellow1/AlphaYellowWidescreenFixes/releases/tag/marbleblastgold) |

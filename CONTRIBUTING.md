@@ -14,6 +14,12 @@ Pull requests are welcome. To keep the list useful:
 - If a game already has a fix, still add yours to the same row. Every fix in the «Solutions» column is a bullet of its own, `• [Name](link)`, with `<br>` between bullets: we list every working fix for a game and let the gamer decide.
 - Check spelling and grammar, and remove trailing whitespace. Don't hard-wrap lines: one line per paragraph or list item.
 
+## AI and curation
+
+This list is maintained with the help of AI (Claude Code): it searches for fixes, checks links and drafts edits, and its commits carry a `Co-Authored-By: Claude` line. Every decision is still made by hand: the maintainer reads each change, picks what goes in and what stays out, and directs every commit.
+
+Contributions made with AI are welcome on the same terms: check every link and claim yourself, and only submit what you would vouch for.
+
 ## Git workflow
 
 - We follow [trunk-based development](https://trunkbaseddevelopment.com/): `main` is the only long-lived branch. Branch off it, keep your branch small and short-lived, and open the pull request against `main`.

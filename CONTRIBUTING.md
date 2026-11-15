@@ -10,7 +10,7 @@ Pull requests are welcome. To keep the list useful:
 - Use the format `[Name](link) - Description.`: the description starts with a capital letter and ends with a period.
 - Put the entry in the right place, and keep entries sorted by game name.
 - Tools that work with many games (wrappers, fix packs) go in [generic_solutions.md](generic_solutions.md), not in `README.md`.
-- A new per-game mod gets a row in the [per-game solutions](README.md#-per-game-solutions) for each game it fixes, in alphabetical order. Add a row for each name the game is sold under too (expansions, editions, re-releases), so Ctrl+F finds it by any of them. A name that already shows up in the «Solutions» column, such as a remaster listed as the fix for the original, doesn't need a row of its own.
+- A new per-game mod goes into the [per-game solutions](README.md#-per-game-solutions), in the row of each game it fixes. Each game has one row, sorted alphabetically by its first name, with every name it's sold under (expansions, editions, re-releases) in the first column, separated by `<br>`, so Ctrl+F finds it by any of them. Games that share all their fixes share one row, because awesome-lint allows each link only once. A name that already shows up in the «Solutions» column, such as a remaster listed as the fix for the original, doesn't need a row of its own.
 - If a game already has a fix, still add yours to the same row. Every fix in the «Solutions» column is a bullet of its own, `• [Name](link)`, with `<br>` between bullets: we list every working fix for a game and let the gamer decide.
 - Check spelling and grammar, and remove trailing whitespace. Don't hard-wrap lines: one line per paragraph or list item.
 

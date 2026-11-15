@@ -14,6 +14,7 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 |---|---|
 | Age of Empires II: The Age of Kings | [UserPatch](https://userpatch.aiscripters.net), [Age of Empires II: Definitive Edition](https://www.ageofempires.com/games/aoeiide/) |
 | Age of Empires II: The Conquerors | [UserPatch](https://userpatch.aiscripters.net), [Age of Empires II: Definitive Edition](https://www.ageofempires.com/games/aoeiide/) |
+| Age of Wonders | No dedicated fix found; WSGF suggests windowed mode, with the window dragged to the size you want |
 | Arcanum: Of Steamworks and Magick Obscura | [High Resolution Patch](https://terra-arcanum.com/drog/highres.html), [Arcanum Community Edition](https://github.com/alexbatalov/arcanum-ce) |
 
 ## B
@@ -34,6 +35,8 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 | Caesar III | [Julius](https://github.com/bvschaik/julius), [Augustus](https://github.com/Keriew/augustus) |
 | Command & Conquer | [OpenRA](https://www.openra.net) |
 | Command & Conquer: Red Alert | [OpenRA](https://www.openra.net) |
+| Cossacks: Back to War | No dedicated fix found; on GOG, replacing `mdraw.dll` with dgVoodoo2's `ddraw.dll` works, but the Steam version has no `mdraw.dll` |
+| Cossacks: European Wars | No dedicated fix found; on GOG, replacing `mdraw.dll` with dgVoodoo2's `ddraw.dll` works, but the Steam version has no `mdraw.dll` |
 
 ## D
 
@@ -59,6 +62,7 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 
 | Game | Fixes |
 |---|---|
+| Etherlords II | No dedicated fix found; dgVoodoo2 allows higher resolutions, but they shift the battle UI |
 | Evil Islands: Curse of the Lost Soul | [Widescreen mod](https://www.nexusmods.com/evilislandscurseofthelostsoul/mods/12) |
 
 ## F
@@ -135,6 +139,8 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 
 | Game | Fixes |
 |---|---|
+| Perimeter | [Perimeter open-source port](https://github.com/KD-lab-Open-Source/Perimeter), [PERIMETER: Legate Edition](https://store.steampowered.com/app/2530170/) |
+| Perimeter: Emperor's Testament | [Perimeter open-source port](https://github.com/KD-lab-Open-Source/Perimeter), [PERIMETER: Legate Edition](https://store.steampowered.com/app/2530170/) |
 | Pharaoh | [Akhenaten](https://github.com/dalerank/Akhenaten) |
 | Pharaoh: Cleopatra | [Akhenaten](https://github.com/dalerank/Akhenaten) |
 | Planescape: Torment | [GemRB](https://gemrb.org), [Widescreen](https://github.com/Gibberlings3/Widescreen) |
@@ -152,6 +158,7 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 | Game | Fixes |
 |---|---|
 | Silent Storm | No dedicated fix found; the old WSGF tool, Universal Res Changer 2, is probably gone |
+| Space Rangers | StarMind's Resolution Patch 1.5 in the PCGamingWiki files library: up to 1920×1080, but only some screens resize |
 | Stronghold Crusader | [Stronghold Crusader HD](https://store.steampowered.com/app/40970/) |
 | Sudden Strike | Widescreen Fix mod on Gamepressure, up to 1920×1080 (not verified) |
 | Sudden Strike 2 | No dedicated fix found; the Widescreen Fix on Gamepressure is for Sudden Strike 1 |

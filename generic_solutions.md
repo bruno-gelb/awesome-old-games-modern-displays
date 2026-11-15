@@ -1,4 +1,4 @@
-# Generic solutions
+# 🧰 Generic solutions
 
 Wrappers and fix packs that work with many games at once, not just one. If your game isn't in the [per-game solutions](per_game_solutions.md), start here.
 

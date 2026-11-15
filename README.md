@@ -14,16 +14,16 @@ For each game, the goal is the easiest, most widely used and best-working way to
 
 ## Contents
 
-- [Per-game solutions](#per-game-solutions)
-- [Generic solutions](#generic-solutions)
+- [🎮 Per-game solutions](#-per-game-solutions)
+- [🧰 Generic solutions](#-generic-solutions)
 - [References](#references)
 - [Related lists](#related-lists)
 
-## Per-game solutions
+## 🎮 Per-game solutions
 
 Mods, source ports and official patches made for one game: **[see the per-game list](per_game_solutions.md)**, sorted by game. Use Ctrl+F to find yours. The list is short for now and grows by hand.
 
-## Generic solutions
+## 🧰 Generic solutions
 
 Wrappers and fix packs that work with many games at once: **[see the generic list](generic_solutions.md)**. Start here if your game isn't in the per-game list.
 

@@ -1,10 +1,10 @@
 # Per-game solutions
 
-Every game covered by the list, with the fixes that support it. Use Ctrl+F to find yours.
+Use Ctrl+F to find your game.
 
 Not finding your game? The [generic wrappers and fix packs](generic_solutions.md) work with many games not listed here, and [PCGamingWiki](https://www.pcgamingwiki.com) has a page for almost every game.
 
-[B](#b) · [D](#d) · [K](#k) · [M](#m) · [T](#t) · [Source ports](#source-ports)
+[B](#b) · [D](#d) · [K](#k) · [M](#m) · [T](#t)
 
 ## B
 
@@ -31,7 +31,6 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 | Game | Fixes |
 |---|---|
 | Majesty Gold HD | [Majesty Gold HD Resolution Mod](https://github.com/bruno-gelb/mghd_resolution_mod) |
-| Mass Effect Trilogy | [WidescreenFixesPack: FOV Fix](https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/masseffect) |
 
 ## T
 
@@ -39,10 +38,3 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 |---|---|
 | The Elder Scrolls III: Morrowind | [OpenMW](https://openmw.org) |
 | Tzar: The Burden of the Crown | [Tzar Resolution Mod](https://github.com/bruno-gelb/ttbotc_resolution_mod) |
-
-## Source ports
-
-New engines for old games that support modern resolutions out of the box. Sorted by game.
-
-- [KaM Remake](https://www.kamremake.com/) - Fan remake of Knights and Merchants (1998) and The Peasants Rebellion, with high resolutions, multiplayer and a map editor.
-- [OpenMW](https://openmw.org) - Open-source engine for The Elder Scrolls III: Morrowind (2002), with widescreen resolutions and native Linux and macOS builds. Needs the original game's data files.

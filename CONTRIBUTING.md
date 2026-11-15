@@ -12,4 +12,9 @@ Pull requests are welcome. To keep the list useful:
 - If a game already has a fix, still add yours to the same row, separated by a comma: we list every working fix for a game and let the gamer decide.
 - Check spelling and grammar, and remove trailing whitespace. Don't hard-wrap lines: one line per paragraph or list item.
 
+## Git workflow
+
+- We follow [trunk-based development](https://trunkbaseddevelopment.com/): `main` is the only long-lived branch. Branch off it, keep your branch small and short-lived, and open the pull request against `main`.
+- Write commit messages by [the seven rules](https://cbea.ms/git-commit/): a short, capitalized subject in the imperative mood, with no period at the end, then a blank line and a body that explains what and why.
+
 By contributing, you agree that your contribution is released under [CC0 1.0](LICENSE).

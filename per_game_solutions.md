@@ -152,8 +152,7 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 | Game | Fixes |
 |---|---|
 | Silent Storm | No dedicated fix found; the old WSGF tool, Universal Res Changer 2, is probably gone |
-| Stronghold Crusader | The Steam and GOG versions are already Stronghold Crusader HD; for the 2002 discs, Firefly's free 1.41 HD patch (no direct download page found) |
-| Stronghold Crusader HD | Native widescreen, up to 2560×1600 |
+| Stronghold Crusader | [Stronghold Crusader HD](https://store.steampowered.com/app/40970/) |
 | Sudden Strike | Widescreen Fix mod on Gamepressure, up to 1920×1080 (not verified) |
 | Sudden Strike 2 | No dedicated fix found; the Widescreen Fix on Gamepressure is for Sudden Strike 1 |
 

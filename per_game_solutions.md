@@ -2,7 +2,7 @@
 
 Use Ctrl+F to find your game. Games get a row for each name they're sold under (base game, expansions, editions and re-releases), even when the same fix covers them all, so a search by any of those names finds it.
 
-When a game has more than one fix (a source port, an engine patch, a resolution mod), we list all of them rather than pick a winner: they make different trade-offs, so you decide which one suits you.
+For each game, the goal is the easiest, most widely used and best-working way to play it on a modern display: an official remaster, a source port, a patch or a mod, whichever does the job. When there are several, we list them all, and you pick.
 
 Not finding your game? The [generic wrappers and fix packs](generic_solutions.md) work with many games not listed here, and [PCGamingWiki](https://www.pcgamingwiki.com) has a page for almost every game.
 

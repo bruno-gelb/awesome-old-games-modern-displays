@@ -8,7 +8,7 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 
 Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIBUTING.md) (the fastest way) or an [issue](https://github.com/bruno-gelb/awesome-old-games-modern-displays/issues) (slower, but it'll get there too).
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [M](#m) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [W](#w) · [X](#x)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [M](#m) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [W](#w) · [X](#x)
 
 ## A
 
@@ -35,6 +35,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 | Game | Solutions |
 |---|---|
 | Caesar III | • [Julius](https://github.com/bvschaik/julius)<br>• [Augustus](https://github.com/Keriew/augustus) |
+| Combat Wings: Battle of Britain | • [Combat Wings widescreen fix](https://github.com/RoseTheFlower/UltrawideIndex/releases/tag/combatwingsbob) |
 | Command & Conquer | • [OpenRA](https://www.openra.net) |
 | Command & Conquer: Red Alert | • [OpenRA](https://www.openra.net) |
 | Cossacks: Back to War | • No dedicated fix found; on GOG, replacing `mdraw.dll` with dgVoodoo2's `ddraw.dll` works, but the Steam version has no `mdraw.dll` |
@@ -44,6 +45,8 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 | Game | Solutions |
 |---|---|
+| Dead Rising | • [Dead Rising ultrawide patch](https://codeberg.org/Lyall/UltrawidePatches/src/branch/main/Dead%20Rising) |
+| Devil May Cry HD Collection | • [DMCHDFix](https://github.com/Lyall/DMCHDFix) (work in progress) |
 | Diablo | • [DevilutionX](https://github.com/diasurgical/devilutionX) |
 | Diablo II | • [D2DX](https://github.com/bolrog/d2dx)<br>• [Diablo II: Resurrected](https://diablo2.blizzard.com) |
 | Diablo II: Lord of Destruction | • [D2DX](https://github.com/bolrog/d2dx)<br>• [Diablo II: Resurrected](https://diablo2.blizzard.com) |
@@ -53,6 +56,11 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 | Disciples II: Rise of the Elves | • [DisciplesGL](https://github.com/rootext/disciples-gl-builds) |
 | Disciples II: Servants of the Dark | • [DisciplesGL](https://github.com/rootext/disciples-gl-builds) |
 | Disciples: Sacred Lands | • [DisciplesGL](https://github.com/rootext/disciples-gl-builds) |
+| Dragon Age II | • [DAFix](https://github.com/Lyall/DAFix) |
+| Dragon Age: Origins | • [DAFix](https://github.com/Lyall/DAFix) |
+| Dragon Age: Origins - Awakening | • [DAFix](https://github.com/Lyall/DAFix) |
+| Dragon Age: Origins - Ultimate Edition | • [DAFix](https://github.com/Lyall/DAFix) |
+| Dragon's Dogma: Dark Arisen | • [DDDAFix](https://github.com/Lyall/DDDAFix) |
 | Dune 2000 | • [OpenRA](https://www.openra.net) |
 | Dune II: Battle for Arrakis | • [Dune Dynasty](https://dunedynasty.sourceforge.net) |
 | Dune II: The Building of a Dynasty | • [Dune Dynasty](https://dunedynasty.sourceforge.net) |
@@ -120,6 +128,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 | Game | Solutions |
 |---|---|
+| Kane & Lynch 2: Dog Days | • [Kane & Lynch 2 ultrawide fix](https://github.com/RoseTheFlower/UltrawideIndex/releases/tag/kanelynch2) |
 | King's Bounty: Armored Princess | • [official patch](https://store.steampowered.com/news/app/3170/view/1840944183776756) |
 | King's Bounty: Crossworlds | • [official patch (announced)](https://store.steampowered.com/news/app/3170/view/1840944183776756) |
 | King's Bounty: The Legend | • [official patch](https://store.steampowered.com/news/app/25900/view/1836506165546666) |
@@ -133,9 +142,18 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 | Majesty Gold HD | • [Majesty Gold HD Resolution Mod](https://github.com/bruno-gelb/mghd_resolution_mod) (by this list's author)<br>• Native widescreen up to 1920×1200: enough for 1080p and 1200p screens without a mod |
 | Majesty: The Fantasy Kingdom Sim | • [Majesty Gold HD Resolution Mod](https://github.com/bruno-gelb/mghd_resolution_mod) (by this list's author, on top of Majesty Gold HD)<br>• [Majesty Gold HD](https://store.steampowered.com/app/73230/) |
 | Majesty: The Northern Expansion | • [Majesty Gold HD Resolution Mod](https://github.com/bruno-gelb/mghd_resolution_mod) (by this list's author, on top of Majesty Gold HD)<br>• [Majesty Gold HD](https://store.steampowered.com/app/73230/) |
+| Manhunt 2 | • [Manhunt 2 widescreen and FOV fix](https://github.com/RoseTheFlower/UltrawideIndex/releases/tag/manhunt2) |
+| Max Payne 3 | • [MaxPayne3Fix](https://github.com/Lyall/MaxPayne3Fix) |
 | Might and Magic VI: The Mandate of Heaven | • [GrayFace patch](https://grayface.github.io/mm/) |
 | Might and Magic VII: For Blood and Honor | • [GrayFace patch](https://grayface.github.io/mm/) |
 | Might and Magic VIII: Day of the Destroyer | • [GrayFace patch](https://grayface.github.io/mm/) |
+| MX vs. ATV Reflex | • [MX vs. ATV Reflex ultrawide fix](https://github.com/RoseTheFlower/MXvsATVReflexUltrawide) |
+
+## O
+
+| Game | Solutions |
+|---|---|
+| Omikron: The Nomad Soul | • [Omikron widescreen fix](https://github.com/RoseTheFlower/OmikronTheNomadSoulWide) |
 
 ## P
 
@@ -152,6 +170,9 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 | Game | Solutions |
 |---|---|
 | Rage of Mages II: Necromancer | • Probably no patch needed: the game takes `--res:1920x1080` in its shortcut (rom2.ru FAQ); allods2.com, the site of the unofficial patch, doesn't respond |
+| Red Dead Redemption | • [Red Dead Redemption cutscene fix](https://github.com/RoseTheFlower/UltrawideIndex/releases/tag/reddeadredemption) |
+| Resident Evil 5 | • [RE5Fix](https://codeberg.org/Lyall/RE5Fix) |
+| Resident Evil: Revelations | • [RERevFix](https://github.com/Lyall/RERevFix) |
 | RollerCoaster Tycoon 2 | • [OpenRCT2](https://openrct2.io) |
 | RollerCoaster Tycoon 2: Triple Thrill Pack | • [OpenRCT2](https://openrct2.io) |
 
@@ -159,10 +180,12 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 | Game | Solutions |
 |---|---|
+| Saints Row: The Third | • [Saints Row: The Third cutscene fix](https://github.com/RoseTheFlower/UltrawideIndex/releases/tag/saintsrowtt) |
 | Silent Storm | • No dedicated fix found; the old WSGF tool, Universal Res Changer 2, is probably gone |
 | Space Rangers | • StarMind's Resolution Patch 1.5 in the PCGamingWiki files library: up to 1920×1080, but only some screens resize |
 | Space Rangers 2: Dominators | • [Space Rangers HD: A War Apart](https://store.steampowered.com/app/214730/) |
 | Space Rangers 2: Reboot | • [Space Rangers HD: A War Apart](https://store.steampowered.com/app/214730/) |
+| Star Wars: Bounty Hunter | • [Star Wars: Bounty Hunter cutscene FOV fix](https://github.com/RoseTheFlower/UltrawideIndex/releases/tag/starwarsbh) |
 | Stronghold Crusader | • [Stronghold Crusader HD](https://store.steampowered.com/app/40970/) |
 | Sudden Strike | • Widescreen Fix mod on Gamepressure, up to 1920×1080 (not verified) |
 | Sudden Strike 2 | • No dedicated fix found; the Widescreen Fix on Gamepressure is for Sudden Strike 1 |

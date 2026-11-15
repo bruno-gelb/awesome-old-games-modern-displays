@@ -47,3 +47,8 @@ Neighboring lists and collections with a different focus.
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## Footnotes
+
+- Many per-game entries were found through [UltrawideIndex](https://github.com/RoseTheFlower/UltrawideIndex) by Rose, [Lyall's fixes](https://github.com/Lyall?tab=repositories), [PCGamingWiki](https://www.pcgamingwiki.com) and the [Widescreen Gaming Forum](https://www.wsgf.org). Thanks to everyone who keeps them going.
+- The screenshot at the top shows the [Majesty Gold HD Resolution Mod](https://github.com/bruno-gelb/mghd_resolution_mod), made by this list's author. The [per-game list](per_game_solutions.md) shows every other solution for Majesty next to it.

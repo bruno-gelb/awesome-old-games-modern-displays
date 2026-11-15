@@ -4,20 +4,7 @@
 
 **🔍 Looking for a specific game? See the [per-game solutions](per_game_solutions.md)**: every game covered here, each with the mods and source ports that fix it.
 
-Old games often lock you into 640×480 or 800×600, stretch on a 16:9 or 21:9 screen, or break on modern graphics APIs. Mods made for a single game are in the per-game list above, source ports and references are below. Wrappers and fix packs that work with many games at once have [their own page](generic_solutions.md).
-
-## Contents
-
-- [Source ports](#source-ports)
-- [References](#references)
-- [Related lists](#related-lists)
-
-## Source ports
-
-New engines for old games that support modern resolutions out of the box. Sorted by game.
-
-- [KaM Remake](https://www.kamremake.com/) - Fan remake of Knights and Merchants (1998) and The Peasants Rebellion, with high resolutions, multiplayer and a map editor.
-- [OpenMW](https://openmw.org) - Open-source engine for The Elder Scrolls III: Morrowind (2002), with widescreen resolutions and native Linux and macOS builds. Needs the original game's data files.
+Old games often lock you into 640×480 or 800×600, stretch on a 16:9 or 21:9 screen, or break on modern graphics APIs. Mods and source ports made for a single game are in the per-game list above. Wrappers and fix packs that work with many games at once have [their own page](generic_solutions.md).
 
 ## References
 
@@ -36,4 +23,4 @@ Neighboring lists and collections with a different focus.
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.

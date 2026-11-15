@@ -72,10 +72,10 @@ Know a patch or mod that should be here but isn't? Open a [pull request](#contri
 
 ### F
 
-| Game      | Solutions                                                                   |
-| --------- | --------------------------------------------------------------------------- |
-| Fallout   | • [Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce)   |
-| Fallout 2 | • [Fallout 2 Community Edition](https://github.com/alexbatalov/fallout2-ce) |
+| Game      | Solutions                                                                                                                                                                                         |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fallout   | • [Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce)                                                                                                                         |
+| Fallout 2 | • [Fallout 2 Community Edition](https://github.com/alexbatalov/fallout2-ce)<br>• [Fallout 2 CE Extended](https://github.com/itohnobue/fallout2-ce-extended) (also Fallout, through Fallout Et Tu) |
 
 ### G
 

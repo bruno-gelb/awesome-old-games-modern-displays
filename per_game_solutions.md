@@ -1,4 +1,4 @@
-# Games
+# Per-game solutions
 
 Every game covered by the list, with the fixes that support it. Use Ctrl+F to find yours.
 

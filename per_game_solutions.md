@@ -1,6 +1,6 @@
 # 🎮 Per-game solutions
 
-Use Ctrl+F to find your game. Games get a row for each name they're sold under (base game, expansions, editions and re-releases), even when the same fix covers them all, so a search by any of those names finds it.
+Use Ctrl+F to find your game. Games get a row for each name they're sold under (base game, expansions, editions and re-releases), even when the same fix covers them all, so a search by any of those names finds it. A remaster or re-release listed as a fix can be found by its name in the «Fixes» column.
 
 For each game, the goal is the easiest, most widely used and best-working way to play it on a modern display: an official remaster, a source port, a patch or a mod, whichever does the job. When there are several, we list them all, and you pick.
 

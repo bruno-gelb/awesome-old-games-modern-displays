@@ -1,6 +1,6 @@
 # Per-game solutions
 
-Use Ctrl+F to find your game.
+Use Ctrl+F to find your game. Games get a row for each name they're sold under (base game, expansions, editions and re-releases), even when the same fix covers them all, so a search by any of those names finds it.
 
 Not finding your game? The [generic wrappers and fix packs](generic_solutions.md) work with many games not listed here, and [PCGamingWiki](https://www.pcgamingwiki.com) has a page for almost every game.
 

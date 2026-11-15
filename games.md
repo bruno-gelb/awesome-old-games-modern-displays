@@ -2,7 +2,7 @@
 
 Every game covered by the list, with the fixes that support it. Use Ctrl+F to find yours.
 
-Not finding your game? Generic wrappers like [cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw), [dgVoodoo2](https://github.com/dege-diosg/dgVoodoo2) and [DDrawCompat](https://github.com/narzoul/DDrawCompat) work with many games not listed here, and [PCGamingWiki](https://www.pcgamingwiki.com) has a page for almost every game.
+Not finding your game? The [generic wrappers and fix packs](generic_solutions.md) work with many games not listed here, and [PCGamingWiki](https://www.pcgamingwiki.com) has a page for almost every game.
 
 [B](#b) · [D](#d) · [K](#k) · [M](#m) · [T](#t)
 

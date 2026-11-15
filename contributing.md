@@ -6,8 +6,9 @@ Pull requests are welcome. To keep the list useful:
 - The project must help old games run on modern displays: resolution, aspect ratio, HUD scaling, windowing, or a graphics API that no longer works properly.
 - Link the project's own page (repository or official site), not a mirror or a reupload.
 - Use the format `[Name](link) - Description.`: the description starts with a capital letter and ends with a period.
-- Put the entry in the right section. In «Per-game mods», keep entries sorted by game name.
-- A new per-game mod goes in `README.md`, and gets a row in [games.md](games.md) for each game it fixes, in alphabetical order.
+- Put the entry in the right place, and keep entries sorted by game name.
+- Tools that work with many games (wrappers, fix packs) go in [generic_solutions.md](generic_solutions.md), not in `README.md`.
+- A new per-game mod gets a row in [games.md](games.md) for each game it fixes, in alphabetical order.
 - Check spelling and grammar, and remove trailing whitespace. Don't hard-wrap lines: one line per paragraph or list item.
 
 By contributing, you agree that your contribution is released under [CC0 1.0](LICENSE).

@@ -46,7 +46,6 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 | Game | Solutions |
 |---|---|
 | Dead Rising | • [Dead Rising ultrawide patch](https://codeberg.org/Lyall/UltrawidePatches/src/branch/main/Dead%20Rising) |
-| Devil May Cry HD Collection | • [DMCHDFix](https://github.com/Lyall/DMCHDFix) (work in progress) |
 | Diablo | • [DevilutionX](https://github.com/diasurgical/devilutionX) |
 | Diablo II | • [D2DX](https://github.com/bolrog/d2dx)<br>• [Diablo II: Resurrected](https://diablo2.blizzard.com) |
 | Diablo II: Lord of Destruction | • [D2DX](https://github.com/bolrog/d2dx)<br>• [Diablo II: Resurrected](https://diablo2.blizzard.com) |

@@ -9,7 +9,7 @@ Pull requests are welcome. To keep the list useful:
 - Put the entry in the right place, and keep entries sorted by game name.
 - Tools that work with many games (wrappers, fix packs) go in [generic_solutions.md](generic_solutions.md), not in `README.md`.
 - A new per-game mod gets a row in [per_game_solutions.md](per_game_solutions.md) for each game it fixes, in alphabetical order. Add a row for each name the game is sold under too (expansions, editions, re-releases), so Ctrl+F finds it by any of them. A name that already shows up in the «Fixes» column, such as a remaster listed as the fix for the original, doesn't need a row of its own.
-- If a game already has a fix, still add yours to the same row, separated by a comma: we list every working fix for a game and let the gamer decide.
+- If a game already has a fix, still add yours to the same row. Every fix in the «Fixes» column is a bullet of its own, `• [Name](link)`, with `<br>` between bullets: we list every working fix for a game and let the gamer decide.
 - Check spelling and grammar, and remove trailing whitespace. Don't hard-wrap lines: one line per paragraph or list item.
 
 ## Git workflow

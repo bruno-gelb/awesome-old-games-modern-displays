@@ -6,14 +6,14 @@ When a game has more than one fix (a source port, an engine patch, a resolution 
 
 Not finding your game? The [generic wrappers and fix packs](generic_solutions.md) work with many games not listed here, and [PCGamingWiki](https://www.pcgamingwiki.com) has a page for almost every game.
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [M](#m) · [P](#p) · [R](#r) · [T](#t) · [U](#u) · [X](#x)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [M](#m) · [P](#p) · [R](#r) · [T](#t) · [U](#u) · [W](#w) · [X](#x)
 
 ## A
 
 | Game | Fixes |
 |---|---|
-| Age of Empires II: The Age of Kings | [UserPatch](https://userpatch.aiscripters.net) |
-| Age of Empires II: The Conquerors | [UserPatch](https://userpatch.aiscripters.net) |
+| Age of Empires II: The Age of Kings | [UserPatch](https://userpatch.aiscripters.net), [Age of Empires II: Definitive Edition](https://www.ageofempires.com/games/aoeiide/) |
+| Age of Empires II: The Conquerors | [UserPatch](https://userpatch.aiscripters.net), [Age of Empires II: Definitive Edition](https://www.ageofempires.com/games/aoeiide/) |
 | Arcanum: Of Steamworks and Magick Obscura | [High Resolution Patch](https://terra-arcanum.com/drog/highres.html), [Arcanum Community Edition](https://github.com/alexbatalov/arcanum-ce) |
 
 ## B
@@ -40,8 +40,8 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 | Game | Fixes |
 |---|---|
 | Diablo | [DevilutionX](https://github.com/diasurgical/devilutionX) |
-| Diablo II | [D2DX](https://github.com/bolrog/d2dx) |
-| Diablo II: Lord of Destruction | [D2DX](https://github.com/bolrog/d2dx) |
+| Diablo II | [D2DX](https://github.com/bolrog/d2dx), [Diablo II: Resurrected](https://diablo2.blizzard.com) |
+| Diablo II: Lord of Destruction | [D2DX](https://github.com/bolrog/d2dx), [Diablo II: Resurrected](https://diablo2.blizzard.com) |
 | Diablo: Hellfire | [DevilutionX](https://github.com/diasurgical/devilutionX) |
 | Disciples II: Dark Prophecy | [DisciplesGL](https://github.com/rootext/disciples-gl-builds) |
 | Disciples II: Guardians of the Light | [DisciplesGL](https://github.com/rootext/disciples-gl-builds) |
@@ -159,6 +159,13 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 | Game | Fixes |
 |---|---|
 | UFO: Enemy Unknown | [OpenXcom](https://openxcom.org) |
+
+## W
+
+| Game | Fixes |
+|---|---|
+| Warcraft III: Reign of Chaos | [Warcraft III: Reforged](https://warcraft3.blizzard.com) |
+| Warcraft III: The Frozen Throne | [Warcraft III: Reforged](https://warcraft3.blizzard.com) |
 
 ## X
 

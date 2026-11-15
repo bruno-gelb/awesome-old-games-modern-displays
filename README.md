@@ -8,9 +8,9 @@
 
 > Mods, wrappers and patches that let old PC games run properly on modern displays: high and widescreen resolutions, correct aspect ratios, HUD scaling, borderless windows and working graphics on current Windows, Linux and macOS.
 
-**🔍 Looking for a specific game? See the [per-game solutions](per_game_solutions.md)**: every game covered here, each with the mods and source ports that fix it.
+**🔍 Looking for a specific game? See the [per-game solutions](per_game_solutions.md)**: mods and source ports made for one game, sorted by game. The list is short for now and grows by hand.
 
-Old games often lock you into 640×480 or 800×600, stretch on a 16:9 or 21:9 screen, or break on modern graphics APIs. Mods and source ports made for a single game are in the per-game list above. Wrappers and fix packs that work with many games at once have [their own page](generic_solutions.md).
+Old games often lock you into 640×480 or 800×600, stretch on a 16:9 or 21:9 screen, or break on modern graphics APIs. Wrappers and fix packs that work with many games at once have [their own page](generic_solutions.md).
 
 ## Contents
 

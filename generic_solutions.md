@@ -4,6 +4,23 @@ Wrappers and fix packs that work with many games at once, not just one. If your 
 
 ## Which one should I try?
 
+### Not technical? Start here
+
+Someone has usually already found the fix for your game. These steps help you find where they wrote it down.
+
+1. **Open the game's [PCGamingWiki](https://www.pcgamingwiki.com) page** and scroll to «Video». The «Widescreen resolution», «Ultra-widescreen» and «4K Ultra HD» rows show whether the game handles them on its own, and if it doesn't, how to fix it, step by step. Often that's just «download this, copy these files into the game's folder».
+2. **Check whether you need a fix at all.** GOG versions of old games often come with a fix already set up, Steam re-releases sometimes get official patches, and on Steam Deck or Linux many old games just work through Proton.
+3. **Search the game's Steam guides.** On its Steam page, open Community Hub → Guides and search for «widescreen» or «ultrawide»: these guides are written for players, with screenshots.
+4. **Search the web** for «*game name* widescreen fix» or «*game name* ultrawide». «Fix» finds more than «mod» or «patch».
+5. **Still nothing? Try one by the game's look and age.** A rough rule, not an exact one:
+   - Looks 2D, like Diablo, StarCraft or Age of Empires: **cnc-ddraw**. It has a list of games it supports and a settings program, so there's no config file to edit.
+   - Looks 3D and came out around 1997-2003: **dgVoodoo2**.
+   - Newer than that: **Special K**.
+
+   Each one is a few files you copy into the game's folder. If it doesn't help, delete them and the game is as it was.
+
+### For the technically minded
+
 What decides it is almost always the graphics API the game uses, not the game itself: each wrapper replaces specific DirectX, Glide or OpenGL DLLs.
 
 1. Check for a fix made for your game first: the [per-game solutions](per_game_solutions.md), the releases of WidescreenFixesPack and AlphaYellowWidescreenFixes below (each release is named after its game), and the game's [PCGamingWiki](https://www.pcgamingwiki.com) page. A dedicated fix usually handles the HUD, FOV and menus too.

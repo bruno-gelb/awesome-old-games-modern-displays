@@ -1,6 +1,6 @@
 # 🎮 Per-game solutions
 
-Use Ctrl+F to find your game. Games get a row for each name they're sold under (base game, expansions, editions and re-releases), even when the same fix covers them all, so a search by any of those names finds it. A remaster or re-release listed as a fix can be found by its name in the «Fixes» column.
+Use Ctrl+F to find your game. Games get a row for each name they're sold under (base game, expansions, editions and re-releases), even when the same fix covers them all, so a search by any of those names finds it. A remaster or re-release listed as a fix can be found by its name in the «Solutions» column.
 
 For each game, the goal is the easiest, most widely used and best-working way to play it on a modern display: an official remaster, a source port, a patch or a mod, whichever does the job. When there are several, we list them all, and you pick.
 
@@ -12,7 +12,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## A
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Age of Empires II: The Age of Kings | • [UserPatch](https://userpatch.aiscripters.net)<br>• [Age of Empires II: Definitive Edition](https://www.ageofempires.com/games/aoeiide/) |
 | Age of Empires II: The Conquerors | • [UserPatch](https://userpatch.aiscripters.net)<br>• [Age of Empires II: Definitive Edition](https://www.ageofempires.com/games/aoeiide/) |
@@ -21,7 +21,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## B
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Baldur's Gate | • [GemRB](https://gemrb.org)<br>• [Widescreen](https://github.com/Gibberlings3/Widescreen) |
 | Baldur's Gate II: Shadows of Amn | • [GemRB](https://gemrb.org)<br>• [Widescreen](https://github.com/Gibberlings3/Widescreen) |
@@ -32,7 +32,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## C
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Caesar III | • [Julius](https://github.com/bvschaik/julius)<br>• [Augustus](https://github.com/Keriew/augustus) |
 | Command & Conquer | • [OpenRA](https://www.openra.net) |
@@ -42,7 +42,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## D
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Diablo | • [DevilutionX](https://github.com/diasurgical/devilutionX) |
 | Diablo II | • [D2DX](https://github.com/bolrog/d2dx)<br>• [Diablo II: Resurrected](https://diablo2.blizzard.com) |
@@ -62,21 +62,21 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## E
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Etherlords II | • No dedicated fix found; dgVoodoo2 allows higher resolutions, but they shift the battle UI |
 | Evil Islands: Curse of the Lost Soul | • [Widescreen mod](https://www.nexusmods.com/evilislandscurseofthelostsoul/mods/12) |
 
 ## F
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Fallout | • [Fallout Community Edition](https://github.com/alexbatalov/fallout1-ce) |
 | Fallout 2 | • [Fallout 2 Community Edition](https://github.com/alexbatalov/fallout2-ce) |
 
 ## G
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Gothic | • [GD3D11](https://github.com/Kirides/GD3D11) |
 | Gothic II | • [GD3D11](https://github.com/Kirides/GD3D11) |
@@ -85,7 +85,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## H
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Heroes of Might and Magic II: Gold | • [fheroes2](https://github.com/ihhub/fheroes2) |
 | Heroes of Might and Magic II: The Price of Loyalty | • [fheroes2](https://github.com/ihhub/fheroes2) |
@@ -102,7 +102,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## I
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Icewind Dale | • [GemRB](https://gemrb.org)<br>• [Widescreen](https://github.com/Gibberlings3/Widescreen) |
 | Icewind Dale II | • [GemRB](https://gemrb.org) |
@@ -110,7 +110,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## J
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Jagged Alliance 2 | • [JA2 Stracciatella](https://ja2-stracciatella.github.io) |
 | Jagged Alliance 2: Unfinished Business | • [JA2 Stracciatella](https://ja2-stracciatella.github.io) |
@@ -118,7 +118,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## K
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | King's Bounty: Armored Princess | • [official patch](https://store.steampowered.com/news/app/3170/view/1840944183776756) |
 | King's Bounty: Crossworlds | • [official patch (announced)](https://store.steampowered.com/news/app/3170/view/1840944183776756) |
@@ -128,7 +128,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## M
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Majesty Gold HD | • [Majesty Gold HD Resolution Mod](https://github.com/bruno-gelb/mghd_resolution_mod) (by this list's author)<br>• Native widescreen up to 1920×1200: enough for 1080p and 1200p screens without a mod |
 | Majesty: The Fantasy Kingdom Sim | • [Majesty Gold HD Resolution Mod](https://github.com/bruno-gelb/mghd_resolution_mod) (by this list's author, on top of Majesty Gold HD)<br>• [Majesty Gold HD](https://store.steampowered.com/app/73230/) |
@@ -139,7 +139,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## P
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Perimeter | • [Perimeter open-source port](https://github.com/KD-lab-Open-Source/Perimeter)<br>• [PERIMETER: Legate Edition](https://store.steampowered.com/app/2530170/) |
 | Perimeter: Emperor's Testament | • [Perimeter open-source port](https://github.com/KD-lab-Open-Source/Perimeter)<br>• [PERIMETER: Legate Edition](https://store.steampowered.com/app/2530170/) |
@@ -149,7 +149,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## R
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Rage of Mages II: Necromancer | • Probably no patch needed: the game takes `--res:1920x1080` in its shortcut (rom2.ru FAQ); allods2.com, the site of the unofficial patch, doesn't respond |
 | RollerCoaster Tycoon 2 | • [OpenRCT2](https://openrct2.io) |
@@ -157,7 +157,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## S
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Silent Storm | • No dedicated fix found; the old WSGF tool, Universal Res Changer 2, is probably gone |
 | Space Rangers | • StarMind's Resolution Patch 1.5 in the PCGamingWiki files library: up to 1920×1080, but only some screens resize |
@@ -167,7 +167,7 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## T
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | The Elder Scrolls II: Daggerfall | • [Daggerfall Unity](https://www.dfworkshop.net) |
 | The Elder Scrolls III: Morrowind | • [OpenMW](https://openmw.org) |
@@ -181,20 +181,20 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 ## U
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | UFO: Enemy Unknown | • [OpenXcom](https://openxcom.org) |
 
 ## W
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | Warcraft III: Reign of Chaos | • [Warcraft III: Reforged](https://warcraft3.blizzard.com) |
 | Warcraft III: The Frozen Throne | • [Warcraft III: Reforged](https://warcraft3.blizzard.com) |
 
 ## X
 
-| Game | Fixes |
+| Game | Solutions |
 |---|---|
 | X-COM: Terror from the Deep | • [OpenXcom](https://openxcom.org) |
 | X-COM: UFO Defense | • [OpenXcom](https://openxcom.org) |

@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/bruno-gelb/mghd_resolution_mod"><img src="media/majesty-2560x1080-ultrawide.png" width="1718" alt="Majesty Gold HD at 2560x1080 on a 21:9 ultrawide monitor, with a resolution mod"></a>
   <br>
-  <em>Majesty Gold HD (2012) at 2560x1080 with a resolution mod, scaled up to a 3440x1440 ultrawide monitor. The original goes up to 1920x1200.</em>
+  <em>Majesty Gold HD (2012) at 2560x1080 with a resolution mod (by this list's author), scaled up to a 3440x1440 ultrawide monitor. The original goes up to 1920x1200.</em>
 </p>
 
 > Mods, wrappers and patches that let old PC games run properly on modern displays: high and widescreen resolutions, correct aspect ratios, HUD scaling, borderless windows and working graphics on current Windows, Linux and macOS.

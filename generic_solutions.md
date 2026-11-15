@@ -1,6 +1,6 @@
 # 🧰 Generic solutions
 
-Wrappers and fix packs that work with many games at once, not just one. If your game isn't in the [per-game solutions](per_game_solutions.md), start here.
+Wrappers and fix packs that work with many games at once, not just one. If your game isn't in the [per-game solutions](README.md#-per-game-solutions), start here.
 
 ## Which one should I try?
 
@@ -23,7 +23,7 @@ Someone has usually already found the fix for your game. These steps help you fi
 
 What decides it is almost always the graphics API the game uses, not the game itself: each wrapper replaces specific DirectX, Glide or OpenGL DLLs.
 
-1. Check for a fix made for your game first: the [per-game solutions](per_game_solutions.md), the releases of WidescreenFixesPack and AlphaYellowWidescreenFixes below (each release is named after its game), and the game's [PCGamingWiki](https://www.pcgamingwiki.com) page. A dedicated fix usually handles the HUD, FOV and menus too.
+1. Check for a fix made for your game first: the [per-game solutions](README.md#-per-game-solutions), the releases of WidescreenFixesPack and AlphaYellowWidescreenFixes below (each release is named after its game), and the game's [PCGamingWiki](https://www.pcgamingwiki.com) page. A dedicated fix usually handles the HUD, FOV and menus too.
 2. Find out which graphics API the game uses: the «API» table near the bottom of its PCGamingWiki page, or the DLLs its executable loads ([Dependencies](https://github.com/lucasg/Dependencies) on Windows, `objdump -p game.exe | grep "DLL Name"` on Linux). Look for `ddraw.dll`, `d3d8.dll`, `d3d9.dll`, `glide2x.dll` / `glide3x.dll` or `opengl32.dll`.
 3. Pick the wrappers for that API in the table, and try them one at a time, in order. Most are a DLL you put in the game's folder, so each try is easy to undo. Don't stack two wrappers for the same API.
 4. Set the resolution, scaling and window mode in the wrapper's own settings.

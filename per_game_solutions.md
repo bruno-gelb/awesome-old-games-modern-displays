@@ -27,6 +27,9 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 
 | Game | Fixes |
 |---|---|
+| King's Bounty: Armored Princess | [official patch](https://store.steampowered.com/news/app/3170/view/1840944183776756) |
+| King's Bounty: Crossworlds | [official patch (announced)](https://store.steampowered.com/news/app/3170/view/1840944183776756) |
+| King's Bounty: The Legend | [official patch](https://store.steampowered.com/news/app/25900/view/1836506165546666) |
 | Knights and Merchants: The Peasants Rebellion | [KaM Remake](https://www.kamremake.com/) |
 | Knights and Merchants: The Shattered Kingdom | [KaM Remake](https://www.kamremake.com/) |
 

@@ -16,7 +16,6 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 |---|---|
 | Age of Empires II: The Age of Kings | • [UserPatch](https://userpatch.aiscripters.net)<br>• [Age of Empires II: Definitive Edition](https://www.ageofempires.com/games/aoeiide/) |
 | Age of Empires II: The Conquerors | • [UserPatch](https://userpatch.aiscripters.net)<br>• [Age of Empires II: Definitive Edition](https://www.ageofempires.com/games/aoeiide/) |
-| Age of Wonders | • No dedicated fix found; WSGF suggests windowed mode, with the window dragged to the size you want |
 | Arcanum: Of Steamworks and Magick Obscura | • [High Resolution Patch](https://terra-arcanum.com/drog/highres.html)<br>• [Arcanum Community Edition](https://github.com/alexbatalov/arcanum-ce) |
 
 ## B
@@ -38,8 +37,6 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 | Combat Wings: Battle of Britain | • [Combat Wings widescreen fix](https://github.com/RoseTheFlower/UltrawideIndex/releases/tag/combatwingsbob) |
 | Command & Conquer | • [OpenRA](https://www.openra.net) |
 | Command & Conquer: Red Alert | • [OpenRA](https://www.openra.net) |
-| Cossacks: Back to War | • No dedicated fix found; on GOG, replacing `mdraw.dll` with dgVoodoo2's `ddraw.dll` works, but the Steam version has no `mdraw.dll` |
-| Cossacks: European Wars | • No dedicated fix found; on GOG, replacing `mdraw.dll` with dgVoodoo2's `ddraw.dll` works, but the Steam version has no `mdraw.dll` |
 
 ## D
 
@@ -71,7 +68,6 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 
 | Game | Solutions |
 |---|---|
-| Etherlords II | • No dedicated fix found; dgVoodoo2 allows higher resolutions, but they shift the battle UI |
 | Evil Islands: Curse of the Lost Soul | • [Widescreen mod](https://www.nexusmods.com/evilislandscurseofthelostsoul/mods/12) |
 
 ## F
@@ -103,8 +99,6 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 | Heroes of Might and Magic III: The Restoration of Erathia | • [Heroes of Might & Magic III: HD Edition](https://store.steampowered.com/app/297000/)<br>• [HD Mod](https://sites.google.com/site/heroes3hd/) (needs the files of Complete or The Shadow of Death)<br>• [VCMI](https://vcmi.eu) (same) |
 | Heroes of Might and Magic III: The Shadow of Death | • [HD Mod](https://sites.google.com/site/heroes3hd/)<br>• [VCMI](https://vcmi.eu) |
 | Heroes of Might and Magic IV | • HoMM IV HD resolution mod on Modstalgia (not verified: the page blocks automated checks, and no author page was found) |
-| Heroes of Might and Magic V | • No dedicated fix found. Tribes of the East handles widescreen better, by cutting the vertical FOV; the fan-made 5.5 mod fixes it, but changes much more of the game |
-| Heroes of Might and Magic V: Hammers of Fate | • No dedicated fix found. Tribes of the East handles widescreen better, by cutting the vertical FOV; the fan-made 5.5 mod fixes it, but changes much more of the game |
 | Heroes of Might and Magic V: Tribes of the East | • Native widescreen, made by cutting the vertical FOV; the fan-made 5.5 mod fixes it, but changes much more of the game |
 
 ## I
@@ -180,14 +174,12 @@ Know a patch or mod that should be here but isn't? Open a [pull request](CONTRIB
 | Game | Solutions |
 |---|---|
 | Saints Row: The Third | • [Saints Row: The Third cutscene fix](https://github.com/RoseTheFlower/UltrawideIndex/releases/tag/saintsrowtt) |
-| Silent Storm | • No dedicated fix found; the old WSGF tool, Universal Res Changer 2, is probably gone |
 | Space Rangers | • StarMind's Resolution Patch 1.5 in the PCGamingWiki files library: up to 1920×1080, but only some screens resize |
 | Space Rangers 2: Dominators | • [Space Rangers HD: A War Apart](https://store.steampowered.com/app/214730/) |
 | Space Rangers 2: Reboot | • [Space Rangers HD: A War Apart](https://store.steampowered.com/app/214730/) |
 | Star Wars: Bounty Hunter | • [Star Wars: Bounty Hunter cutscene FOV fix](https://github.com/RoseTheFlower/UltrawideIndex/releases/tag/starwarsbh) |
 | Stronghold Crusader | • [Stronghold Crusader HD](https://store.steampowered.com/app/40970/) |
 | Sudden Strike | • Widescreen Fix mod on Gamepressure, up to 1920×1080 (not verified) |
-| Sudden Strike 2 | • No dedicated fix found; the Widescreen Fix on Gamepressure is for Sudden Strike 1 |
 
 ## T
 

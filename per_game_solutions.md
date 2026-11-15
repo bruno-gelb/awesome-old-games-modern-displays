@@ -6,7 +6,7 @@ For each game, the goal is the easiest, most widely used and best-working way to
 
 Not finding your game? The [generic wrappers and fix packs](generic_solutions.md) work with many games not listed here, and [PCGamingWiki](https://www.pcgamingwiki.com) has a page for almost every game.
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [M](#m) · [P](#p) · [R](#r) · [T](#t) · [U](#u) · [W](#w) · [X](#x)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [M](#m) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [W](#w) · [X](#x)
 
 ## A
 
@@ -84,9 +84,15 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 | Heroes of Might and Magic II: Gold | [fheroes2](https://github.com/ihhub/fheroes2) |
 | Heroes of Might and Magic II: The Price of Loyalty | [fheroes2](https://github.com/ihhub/fheroes2) |
 | Heroes of Might and Magic II: The Succession Wars | [fheroes2](https://github.com/ihhub/fheroes2) |
+| Heroes of Might and Magic III: Armageddon's Blade | [HD Mod](https://sites.google.com/site/heroes3hd/), [VCMI](https://vcmi.eu) (both need the files of Complete or The Shadow of Death) |
 | Heroes of Might and Magic III: Complete | [HD Mod](https://sites.google.com/site/heroes3hd/), [VCMI](https://vcmi.eu) |
 | Heroes of Might and Magic III: Horn of the Abyss | [HD Mod](https://sites.google.com/site/heroes3hd/) (bundled with [HotA](https://h3hota.com)) |
+| Heroes of Might and Magic III: The Restoration of Erathia | [Heroes of Might & Magic III: HD Edition](https://store.steampowered.com/app/297000/), [HD Mod](https://sites.google.com/site/heroes3hd/), [VCMI](https://vcmi.eu) (both need the files of Complete or The Shadow of Death) |
 | Heroes of Might and Magic III: The Shadow of Death | [HD Mod](https://sites.google.com/site/heroes3hd/), [VCMI](https://vcmi.eu) |
+| Heroes of Might and Magic IV | HoMM IV HD resolution mod on Modstalgia (not verified: the page blocks automated checks, and no author page was found) |
+| Heroes of Might and Magic V | No dedicated fix found. Tribes of the East handles widescreen better, by cutting the vertical FOV; the fan-made 5.5 mod fixes it, but changes much more of the game |
+| Heroes of Might and Magic V: Hammers of Fate | No dedicated fix found. Tribes of the East handles widescreen better, by cutting the vertical FOV; the fan-made 5.5 mod fixes it, but changes much more of the game |
+| Heroes of Might and Magic V: Tribes of the East | Native widescreen, made by cutting the vertical FOV; the fan-made 5.5 mod fixes it, but changes much more of the game |
 
 ## I
 
@@ -137,8 +143,19 @@ Not finding your game? The [generic wrappers and fix packs](generic_solutions.md
 
 | Game | Fixes |
 |---|---|
+| Rage of Mages II: Necromancer | Probably no patch needed: the game takes `--res:1920x1080` in its shortcut (rom2.ru FAQ); allods2.com, the site of the unofficial patch, doesn't respond |
 | RollerCoaster Tycoon 2 | [OpenRCT2](https://openrct2.io) |
 | RollerCoaster Tycoon 2: Triple Thrill Pack | [OpenRCT2](https://openrct2.io) |
+
+## S
+
+| Game | Fixes |
+|---|---|
+| Silent Storm | No dedicated fix found; the old WSGF tool, Universal Res Changer 2, is probably gone |
+| Stronghold Crusader | The Steam and GOG versions are already Stronghold Crusader HD; for the 2002 discs, Firefly's free 1.41 HD patch (no direct download page found) |
+| Stronghold Crusader HD | Native widescreen, up to 2560×1600 |
+| Sudden Strike | Widescreen Fix mod on Gamepressure, up to 1920×1080 (not verified) |
+| Sudden Strike 2 | No dedicated fix found; the Widescreen Fix on Gamepressure is for Sudden Strike 1 |
 
 ## T
 

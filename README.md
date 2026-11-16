@@ -79,9 +79,10 @@ Know a patch or mod that should be here but isn't? Open a [pull request](#contri
 
 ### G
 
-| Game                                                                            | Solutions                                     |
-| ------------------------------------------------------------------------------- | --------------------------------------------- |
-| Gothic<br>Gothic II<br>Gothic II: Gold Edition<br>Gothic II: Night of the Raven | • [GD3D11](https://github.com/Kirides/GD3D11) |
+| Game                                                                                                                                                                                                     | Solutions                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Gothic<br>Gothic II<br>Gothic II: Gold Edition<br>Gothic II: Night of the Raven                                                                                                                          | • [GD3D11](https://github.com/Kirides/GD3D11)                                |
+| Grand Theft Auto IV<br>Grand Theft Auto IV: The Complete Edition<br>Grand Theft Auto: Episodes from Liberty City<br>Grand Theft Auto IV: The Lost and Damned<br>Grand Theft Auto: The Ballad of Gay Tony | • [GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) |
 
 ### H
 

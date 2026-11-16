@@ -55,7 +55,7 @@ Drop-in replacements for old graphics APIs.
 
 Collections of fixes for many games, and the plumbing they rely on.
 
-- [WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins that add or improve widescreen support in dozens of games.
+- [WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins that add or improve widescreen support in about 80 games, one release per game. The bigger ones, named «Fusion Fix» (Mafia, Resident Evil 4, The Saboteur and others), also fix FOV, HUD, video playback and other issues.
 - [AlphaYellowWidescreenFixes](https://github.com/alphayellow1/AlphaYellowWidescreenFixes) - Memory patches that fix resolution, aspect ratio, FOV and HUD in old PC games.
 - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) - Proxy DLL that loads `.asi` plugins into any game; most widescreen fixes depend on it.
 - [Special K](https://github.com/SpecialKO/SpecialK) - Swiss Army knife of PC gaming: resolution, frame pacing, HDR and windowing tweaks.

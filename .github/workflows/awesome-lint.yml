@@ -1,0 +1,47 @@
+name: awesome-lint
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # awesome-lint checks the git history and remote, a shallow clone is not enough
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Run awesome-lint
+        env:
+          FORCE_COLOR: "0"
+        run: |
+          set +e
+          npx --yes awesome-lint > lint.txt 2>&1
+          status=$?
+          cat lint.txt
+          # Turn each error into an annotation on the PR's "Files changed" tab
+          awk '
+            /^  [^ ].*:[0-9]+:[0-9]+$/ { split($1, a, ":"); file = a[1]; next }
+            /^  ✖ +[0-9]+:[0-9]+/ {
+              line = $0; sub(/^  ✖ +/, "", line)
+              split(line, pos, " "); split(pos[1], lc, ":")
+              sub(/^[0-9]+:[0-9]+ +/, "", line)
+              sub(/ {2,}/, " · ", line)
+              printf "::error file=%s,line=%s,col=%s::%s\n", (file ? file : "readme.md"), lc[1], lc[2], line
+            }
+          ' lint.txt
+          {
+            echo "## awesome-lint"
+            echo '```'
+            cat lint.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          exit $status

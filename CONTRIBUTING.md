@@ -23,6 +23,7 @@ Contributions made with AI are welcome on the same terms: check every link and c
 ## Git workflow
 
 - We follow [trunk-based development](https://trunkbaseddevelopment.com/): `main` is the only long-lived branch. Branch off it, keep your branch small and short-lived, and open the pull request against `main`.
+- Run `git config core.hooksPath .githooks` once after cloning: it turns on a pre-commit hook that runs `npx awesome-lint` (needs Node.js) whenever you commit a Markdown file. The same check runs on every pull request and blocks the merge until it passes.
 - Write commit messages by [the seven rules](https://cbea.ms/git-commit/): a short, capitalized subject in the imperative mood, with no period at the end, then a blank line and a body that explains what and why.
 
 By contributing, you agree that your contribution is released under [CC0 1.0](LICENSE).

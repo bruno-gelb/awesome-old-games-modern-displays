@@ -6,7 +6,7 @@ Pull requests are welcome. To keep the list useful:
 - The project must help old games run on modern displays: resolution, aspect ratio, HUD scaling, windowing, or a graphics API that no longer works properly.
 - The game must have been originally released before 2013, on any platform. Later ports, remasters and re-releases of such a game count too (Red Dead Redemption, 2010, ported to PC in 2024, is in).
 - Only awesome items, nothing unmaintained or archived. Unmaintained means archived, abandoned by its author, no longer working or downloadable, or a work in progress with no release for 2 years. A finished fix for a finished old game is fine even if it hasn't changed in years.
-- Link the project's own page (repository or official site), not a mirror or a reupload.
+- Link the project's own page (repository or official site), or a maintained fork if the original is archived, not a mirror or a reupload.
 - Use the format `[Name](link) - Description.`: the description starts with a capital letter and ends with a period.
 - Put the entry in the right place, and keep entries sorted by game name.
 - Tools that work with many games (wrappers, fix packs) go in [generic_solutions.md](generic_solutions.md), not in `README.md`.

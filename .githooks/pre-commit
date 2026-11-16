@@ -1,0 +1,20 @@
+#!/bin/sh
+# Runs awesome-lint before each commit that touches a Markdown file.
+# Enable once per clone: git config core.hooksPath .githooks
+# Skip once (not recommended, CI will still block the PR): git commit --no-verify
+
+git diff --cached --name-only --diff-filter=ACMR | grep -qi '\.md$' || exit 0
+
+# awesome-lint finds the GitHub repo through the current branch's remote, which a new
+# branch doesn't have until its first push. Point it at origin for this run only.
+branch=$(git branch --show-current)
+if [ -n "$branch" ] && ! git config --get "branch.$branch.remote" >/dev/null; then
+  export GIT_CONFIG_COUNT=1
+  export GIT_CONFIG_KEY_0="branch.$branch.remote"
+  export GIT_CONFIG_VALUE_0=origin
+fi
+
+npx --yes awesome-lint || {
+  echo "awesome-lint failed: fix the errors above, then commit again." >&2
+  exit 1
+}

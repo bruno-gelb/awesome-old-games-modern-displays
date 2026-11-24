@@ -127,10 +127,11 @@ Know a patch or mod that should be here but isn't? Open a [pull request](#contri
 
 ### P
 
-| Game                                        | Solutions                                                                                                                                                     |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Perimeter<br>Perimeter: Emperor's Testament | • [Perimeter open-source port](https://github.com/KD-lab-Open-Source/Perimeter)<br>• [PERIMETER: Legate Edition](https://store.steampowered.com/app/2530170/) |
-| Pharaoh<br>Pharaoh: Cleopatra               | • [Akhenaten](https://github.com/dalerank/Akhenaten)                                                                                                          |
+| Game                                        | Solutions                                                                                                                                                                                                                                                           |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Perimeter<br>Perimeter: Emperor's Testament | • [Perimeter open-source port](https://github.com/KD-lab-Open-Source/Perimeter)<br>• [PERIMETER: Legate Edition](https://store.steampowered.com/app/2530170/)                                                                                                       |
+| Pharaoh<br>Pharaoh: Cleopatra               | • [Akhenaten](https://github.com/dalerank/Akhenaten)                                                                                                                                                                                                                |
+| Primitive Wars<br>Jurassic War II           | • [OpenPW](https://github.com/iakraptis/OpenPW) (an open-source remake on the OpenRA engine that runs at any resolution, ultrawide included; skirmish with all four races and the original maps, the campaign is in progress; needs your copy of the original game) |
 
 ### R
 
